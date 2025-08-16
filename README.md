@@ -1,0 +1,1 @@
+# mysql_practice_alter_table
